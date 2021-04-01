@@ -1,1 +1,4 @@
-
+output/
+sentence_transformers.egg-info/
+datasets/
+env/
